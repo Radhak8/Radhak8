@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Radhak8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2 align="center"><b>Personal Information 👨‍💻</b></h2>
 
-<!---
-Radhak8/Radhak8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Node.js%2C+Linux%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
+
+```python
+Name = "Radha"
+State = "Delhi"
+Country = "🇮🇳"
+```
+<details>
+<summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
+<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+<br>
+<br>
+  
+----
+![](https://github-readme-stats.vercel.app/api?username=Radhak8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Radhak8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhak8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+----
